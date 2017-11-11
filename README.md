@@ -7,5 +7,5 @@ Check jenkins build time seconds.
 
 ```
 [plugin.checks.jenkins-build-time]
-command = "/path/to/check-jenkins-build-time --host=localhost --port=8080 --job-name sleep30 -w 60 -c 300
+command = "/path/to/check-jenkins-build-time --host=localhost --port=8080 --job-name sleep30 -w 60 -c 300"
 ```
